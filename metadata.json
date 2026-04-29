@@ -1,0 +1,6 @@
+{
+  "name": "Resolutor de Lógica Proposicional",
+  "description": "Ferramenta para resolver fórmulas de lógica proposicional, gerar tabelas da verdade passo a passo e classificar fórmulas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
